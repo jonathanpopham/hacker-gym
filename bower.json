@@ -1,0 +1,21 @@
+{
+  "name": "hacker-gym",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jonathanpopham/hacker-gym",
+  "authors": [
+    "amrosado <arosad2@emory.edu>"
+  ],
+  "description": "Making stuff move.",
+  "main": "hacker-gym.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-component-page": "Polymer/core-component-page#>=0.3.0 <1.0.0"
+  }
+}
